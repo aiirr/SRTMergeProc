@@ -2,7 +2,7 @@
 拼接字幕文件中的短句，使之变成完整的句子
 
 ## 用法
-- srtproc <src> <dst>
+- srtproc \<src\> \<dst\>
   - src - 完整的srt源路径，例如d:\abc\src.srt
   - dst - 完整的srt输出文件，例如d:\abc\dst.srt
   
